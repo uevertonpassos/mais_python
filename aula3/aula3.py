@@ -6,3 +6,4 @@ print('Esse "tipo" de Strings')  # colocar  aspas duplas, dentro de as pas simpl
 print("Esse 'tipo' de Strings")  # o mesmo para aspas simples
 # mais formas de colocar  aspas no print
 print('Estou testando commit pelo vscode')
+print('De novo')
